@@ -31,3 +31,15 @@ This project is a simplified clone of the AirBnB platform. The goal is to build 
 
 ### Importance of User-Friendly Design
 A booking system needs to be easy to navigate to minimize user frustration and improve conversion rates. Features like clear CTAs, smooth navigation, and an appealing layout are crucial.
+
+## Project Roles and Responsibilities
+
+### Roles and Responsibilities
+- **Project Manager:** Oversees project progress, manages deadlines, and coordinates between teams.
+- **Frontend Developers:** Build and implement the UI using React and Tailwind CSS.
+- **Backend Developers:** Develop and manage APIs, handle server-side logic, and integrate the database.
+- **Designers:** Create UI/UX designs, wireframes, and mockups.
+- **QA/Testers:** Test the application for bugs and ensure quality before deployment.
+- **DevOps Engineers:** Manage CI/CD pipelines, monitor server health, and optimize performance.
+- **Product Owner:** Define project requirements and ensure alignment with user needs.
+- **Scrum Master:** Facilitate agile processes and remove blockers for the team.
