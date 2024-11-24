@@ -43,3 +43,10 @@ A booking system needs to be easy to navigate to minimize user frustration and i
 - **DevOps Engineers:** Manage CI/CD pipelines, monitor server health, and optimize performance.
 - **Product Owner:** Define project requirements and ensure alignment with user needs.
 - **Scrum Master:** Facilitate agile processes and remove blockers for the team.
+
+## UI Component Patterns
+
+### Planned Components
+- **Navbar:** Includes navigation links, logo, and a user dropdown menu.
+- **Property Card:** Displays property image, title, price, and a quick action button.
+- **Footer:** Contains links to important pages, contact information, and social media icons.
